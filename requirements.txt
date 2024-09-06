@@ -1,0 +1,9 @@
+pandas
+fastapi
+langchain
+diagrams
+boto3
+anthropic
+uvicorn
+websockets
+aiofiles
